@@ -1,0 +1,139 @@
+body{
+	line-height: 25px;
+	font-family: Georgia, Verdana, Helvetica, Arial, Courier, sans-serif;
+	letter-spacing: .1em;
+	line-height: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 80%;
+	margin: auto;
+}
+.box-1{
+	background-color: #C8B04D;
+	color: #47246B;
+	padding: 20px;
+	border: 5px black solid;
+	border-radius: 20px;
+	text-align: center;
+	font-family: Georgia, Garamond, Helvetica, Courier, sans-serif;
+	font-style: oblique;
+	margin-bottom: 5px;
+}
+
+.content_container{
+	background-color: #CDCBC6;
+	border:3px #47246B solid;
+	border-radius: 20px;
+	padding: 10px;
+}
+
+.h1{
+	font-size: 28px;
+}
+.h2{
+	font-size: 24px;
+	color: #000;
+}
+
+.h3{
+	font-size: 22px;
+	color: #000;
+}
+.p1{
+	text-indent: 30px;
+}
+.p2{
+	text-indent: 30px;
+}
+.p3{
+	text-indent: 30px;
+}
+.p5{
+	text-indent: 30px;
+}
+.p6{
+	text-indent: 30px;
+}
+.p7{
+	text-indent: 30px;
+}
+.p8{
+	text-indent: 30px;
+}
+.p9{
+	text-indent: 30px;
+}
+.p10{
+	text-indent: 30px;
+}
+.p11{
+	text-indent: 30px;
+}
+.p12{
+	text-indent: 30px;
+}
+.p13{
+	text-indent: 30px;
+}
+.p14{
+	text-indent: 30px;
+}
+.p15{
+	text-indent: 30px;
+}
+.p16{
+	text-indent: 30px;
+}
+.p17{
+	text-indent: 30px;
+}
+.p18{
+	text-indent: 30px;
+}
+.p19{
+	text-indent: 30px;
+}
+.p20{
+	text-indent: 30px;
+}
+.p21{
+	text-indent: 30px;
+}
+.p22{
+	text-indent: 30px;
+}
+.p23{
+	text-indent: 30px;
+}
+.p24{
+	text-indent: 30px;
+}
+.p25{
+	text-indent: 30px;
+}
+.p26{
+	text-indent: 30px;
+}
+.p27{
+	text-indent: 30px;
+}
+.p28{
+	text-indent: 30px;
+}
+.p29{
+	text-indent: 30px;
+}
+.p30{
+	text-indent: 30px;
+}
+
+footer{
+	padding-top: 20px;
+
+	text-align: center;
+}
+
+.Copyright{
+	padding-top: 500px;
+	font-size: 12px;
+}
